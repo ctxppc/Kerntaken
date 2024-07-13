@@ -1,0 +1,25 @@
+title: Do's
+content: |
+  Over welke kerntaken gaat het? Wat zijn de <strong>do's</strong> van een kerntakenoverheid?
+style: style1 medium onscroll-fade-in
+items:
+
+  - name: Individuele vrijheden vrijwaren
+    content: De vrijheid van één eindigt waar de vrijheid van een ander begint. De overheid heeft het monopolie op fysiek geweld en dwang; enkel zij kan de vrijheid van eenieder vrijwaren.
+    style: style2 major fa-shield-halved
+
+  - name: Maatschappelijke participatie bevorderen
+    content: Maximale participatie aan de maatschappij vermindert sociale spanning, verlaagt criminaliteit, verhoogt de economische productiviteit en behoudt de democratische waarden en normen. Dit kan enkel als iedereen een kans krijgt om deel te nemen.
+    style: style2 major fa-people-group
+
+  - name: Gemeenschappelijke gebruiksgoederen verdelen
+    content: Bossen, natuurgebieden, wateren en stadsruimte hebben economische waarde die aan allen toekomt maar tegelijk uitputbaar zijn. De correcte verdeling van deze uitputbare goederen is in het algemeen belang en kan dus bijgevolg enkel door een gecentraliseerde macht gebeuren.
+    style: style2 major fa-road-barrier
+
+  - name: Gemeenschappelijke deugden promoten
+    content:
+    style: style2 major fa-handshake
+
+  - name: Onderzoek van grotere tijdshorizon stimuleren
+    content:
+    style: style2 major fa-flask-vial

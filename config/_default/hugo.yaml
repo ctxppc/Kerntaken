@@ -1,0 +1,30 @@
+---
+
+# Basics
+title: De kerntakenoverheid
+copyright: Kerntaken.eu © CC BY 4.0 2024 Constantino Tsarouhas
+theme: hugo-story
+
+# Publishing
+relativeURLs: true
+baseURL: /
+publishDir: public
+disableKinds:
+  - taxonomy
+  - section
+  
+# Site parameters
+Params:
+  description: 'A (modular, highly tweakable) responsive one-page theme for Hugo'
+  logo: images/banner.jpg
+  favicon: true
+  social:
+    email: c@tsarouhas.eu
+    x: https://x.com/ctxppc
+    instagram: https://instagram.com/ctxppc
+    linkedin: https://linkedin.com/in/costansin0/
+  asset:
+    fontawesome_css:
+      - css/fontawesome-all.min.css
+    fontawesome_js:
+      - js/fontawesome-all.min.js
