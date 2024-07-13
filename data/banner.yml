@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: style2 orient-center content-align-left fullscreen onload-image-fade-in onload-content-fade-right
+title: De kerntakenoverheid
+subtitle: Een overheid die zich enkel bezighoudt met een nauwkeurig gekozen set van kerntaken is een doeltreffende overheid, ten dienste van iedereen.
+content: |
+  België en andere Europese landen zijn sinds vorige eeuw verzorgingsstaten, waarbij de staat verantwoordelijkheid neemt voor het welzijn van burgers. Hoewel de algemene welzijn hierdoor beduidend op vooruit is gegaan, zijn overheden veel groter, logger en intrusiever geworden en komen persoonlijke vrijheden in het gedrang. Het is tijd voor een kritische kijk om de juiste balans te vinden.
+button:
+  label: Lees en denk mee
+  link: "#entry"
+image: "images/banner.jpg"
+
